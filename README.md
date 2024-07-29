@@ -1,4 +1,4 @@
-[Nobby Nuss](Docs/Nobby Nuss.jpg)
+![Nobby Nuss](Docs/nobby-nuss.jpg)
 
 # Disclaimer
 This is a fan made remake of the original game created by Burkhard Ratheiser who deserves a lot of credit for making a great platformer I enjoyed as a kid.
