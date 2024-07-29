@@ -6,6 +6,6 @@ All fan recreations on my Git Hub  exist only for me to practice and try out dif
 The assets in the project are made by me to mimic the art style of the original game. This is because I use recreating the art in my own way to practice making
 pixel art, audio for music/sound effects, and animations.
 
-##Tools used
+## Tools used
 Game Engine: [Unity](https://unity.com/)
 Pixel Art: [Aseprite](https://www.aseprite.org/)
